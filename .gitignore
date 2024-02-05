@@ -1,0 +1,6 @@
+*
+!.gitignore
+!release/
+!release/*
+!source/
+!source/*
